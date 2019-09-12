@@ -1,0 +1,73 @@
+
+.body{
+	background-color: black;
+}
+
+.header{
+	height: 80px;
+	margin-bottom:10px;
+	background-color: #03F881;
+}
+.logo{
+	float: left;
+	width: 20%;
+	background-color: #336EFF;
+	height: 100%;
+	text-align: center;
+}
+.nav{
+	width: 30%;
+	float: right;
+	background-color: #336EFF;
+	height: 100%;
+	text-align: center;
+}
+
+
+h1{
+	/* padding-top: 0px; */
+	text-align: center;
+}
+
+.wrapper{
+	overflow: hidden;
+}
+.box1, .box2, .box3, .box4 {
+	height: 100px;
+	width: 15%;
+	background-color: #03FE0E;
+	float: left;
+	margin-bottom: 15px;
+}
+.box2{
+	margin-left: 15%;
+	background-color: #730DCE;
+}
+.box3{margin-left: 12%;
+background: #FF0097;}
+.box4{float: right;
+background-color: #FAFE03}
+
+
+
+
+
+.wrapper-two{overflow: hidden;}
+.box-one, .box-two, .box-three {width: 30%;
+height: 150px;
+background-color: white;
+float: left;}
+
+.box-two{margin-left: 70px}
+.box-three{
+	float: right;
+}
+
+
+footer{
+	background-color: #336EFF;
+	width: 100%;
+	height: 100px;
+	margin-top: 10px;
+
+}
